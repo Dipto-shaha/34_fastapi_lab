@@ -41,7 +41,7 @@ npm install
 ## Frontend
 ```bash
 cd frontend
-npm rn dev
+npm run dev
 ```
 ## Backend
 ```bash
